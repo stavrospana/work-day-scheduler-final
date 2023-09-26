@@ -12,6 +12,7 @@ The functionality of this project was to have a colour coded hourly schedule tha
 
 # Deployment
 
+ https://stavrospana.github.io/work-day-scheduler-final/
 
 # License 
 
