@@ -7,7 +7,8 @@ The functionality of this project was to have a colour coded hourly schedule tha
 
 # Preview
 
-![image](https://github.com/stavrospana/work-day-scheduler/assets/138176781/217895ef-6675-4cdf-a5b6-b3e6b404b422)
+![image](https://github.com/stavrospana/work-day-scheduler-final/assets/138176781/74a8ed75-9954-4f04-8c7c-5ccd6b5e9be3)
+
 
 # Deployment
 
